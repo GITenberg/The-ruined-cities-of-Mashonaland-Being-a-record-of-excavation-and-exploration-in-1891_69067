@@ -1,0 +1,39 @@
+_repo: The-ruined-cities-of-Mashonaland-Being-a-record-of-excavation-and-exploration-in-1891_69067
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Swan, R. M. W.
+    gutenberg_agent_id: '55083'
+    url: http://www.gutenberg.org/2009/agents/55083
+creator:
+  author:
+    agent_name: Bent, J. Theodore (James Theodore)
+    aliases:
+    - Bent, James Theodore
+    - Bent, Theodore
+    birthdate: 1852
+    deathdate: 1897
+    gutenberg_agent_id: '24790'
+    url: http://www.gutenberg.org/2009/agents/24790
+    wikipedia: https://en.wikipedia.org/wiki/James_Theodore_Bent
+description: ''
+gutenberg_issued: '2022-09-29'
+identifiers:
+  gutenberg: '69067'
+language: en
+pgterms:marc904: https://archive.org/details/ruinedcitiesofma00bentiala/page/n10
+pgterms:marc905: 20191028132517bent
+pgterms:marc906: '1892'
+pgterms:marc907: GB
+production_note: Jeroen Hellingman and the Online Distributed Proofreading Team at
+  https://www.pgdp.net/ for Project Gutenberg (This file was produced from images
+  generously made available by The Internet Archive)
+publication_note: United Kingdom :Longmans, Green and Co.,1892,pubdate 1895.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The ruined cities of Mashonaland: Being a record of excavation and exploration
+  in 1891'
+url: http://www.gutenberg.org/ebooks/69067
