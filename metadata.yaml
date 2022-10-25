@@ -5,6 +5,9 @@ contributor:
     agent_name: Swan, R. M. W.
     gutenberg_agent_id: '55083'
     url: http://www.gutenberg.org/2009/agents/55083
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Bent, J. Theodore (James Theodore)
@@ -17,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/24790
     wikipedia: https://en.wikipedia.org/wiki/James_Theodore_Bent
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69067#The-ruined-cities-of-Mashonaland-Being-a-record-of-excavation-and-exploration-in-1891
 gutenberg_issued: '2022-09-29'
 identifiers:
   gutenberg: '69067'
